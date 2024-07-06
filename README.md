@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eyad Sharaf Almasri</h1>
 <h3 align="center">A passionate frontend developer</h3>
+<img src='https://outlane.co/now/new-shot-programmer-animation/](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif' alt='image' width='400px' />
 
 - 👨‍💻 All of my projects are available at [here at Github | Gitlab!](here at Github | Gitlab!)
 
